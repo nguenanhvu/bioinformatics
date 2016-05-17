@@ -1,4 +1,5 @@
 #bioinformatics
+<<<<<<< HEAD
 ##Introduction
 This repository is for practicing purpose of github and computational genomics. The work is extensively performed in Python.
 ##Contributors
